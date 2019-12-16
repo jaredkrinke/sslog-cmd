@@ -1,0 +1,11 @@
+{
+  "name": "sslog-cmd",
+  "version": "1.0.0",
+  "description": "Real-time local alerting command line tool",
+  "main": "sslog-cmd.js",
+  "license": "MIT",
+  "dependencies": {
+    "sslog": "https://github.com/jaredkrinke/sslog.git#1.0.0",
+    "yargs": "^15.0.2"
+  }
+}
