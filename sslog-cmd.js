@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const sslog = require("sslog");
 
 const argv = require("yargs")
